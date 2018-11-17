@@ -1,7 +1,7 @@
 # kata-15
 # Metodo de Euler
 # y' - 2xy = 0 y(1) =1  y(1.5) = ?
-# dy/dx = e^x
+# dy/dx = 2y
 import math
 import numpy as np
 import matplotlib.pyplot as plt
